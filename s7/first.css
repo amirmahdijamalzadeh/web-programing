@@ -1,0 +1,7 @@
+.first {
+    background-color: darkorchid;
+    height: 100px;
+    width: 100px;
+    box-shadow: 10px 10px 10px red;
+    visibility: unset;
+}

@@ -1,0 +1,91 @@
+html {
+    background-color: rgb(170, 191, 195);
+    height: 100%;
+}
+
+header {
+    background: linear-gradient(90deg, rgb(71, 71, 255), rgb(61, 255, 129));
+    display: flex;
+    border-radius: 10px;
+    position: relative;
+    margin: 10px;
+    box-shadow: 10px 10px 5px rgba(118, 231, 224, 0.756):
+}
+
+img {
+    width: 60px;
+    height: 60px;
+}
+
+img {
+    padding-top: 7px;
+}
+
+h1 {
+    margin-left: 35px;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.home,
+.about,
+.progect {
+    margin-top: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about {
+    margin-left: 40px;
+    color: darkcyan;
+    font-size: 25px;
+}
+
+.home {
+    margin-left: 950px;
+    color: darkcyan;
+    font-size: 25px;
+}
+
+.progect {
+    margin-left: 40px;
+    color: darkcyan;
+    font-size: 25px;
+}
+
+img {
+    margin-left: 40px;
+}
+
+.all {
+    display: flex;
+}
+
+.first {
+    background-color: aliceblue;
+    width: 350px;
+    height: 600px;
+    margin-left: 35px;
+    margin-top: 35px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(61, 255, 129);
+}
+
+.second {
+    background-color: aliceblue;
+    width: 1050px;
+    height: 600px;
+    margin-left: 35px;
+    margin-top: 35px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(71, 71, 255);
+}
+
+.content1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+}
+
+h1:hover {
+    text-shadow: 4px 4px 5px rgb(61, 255, 129);
+    font-size: 35px;
+}
